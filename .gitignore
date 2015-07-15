@@ -1,0 +1,13 @@
+.DS_Store
+*.ini
+
+# npm
+node_modules
+npm-debug.log
+
+# sass
+.sass-cache
+*.css.map
+/**/config.codekit
+/**/.sass-cache/
+/**/.cache/

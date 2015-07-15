@@ -1,0 +1,2 @@
+# xiaomajidi
+bbs.xiaomajidi.com

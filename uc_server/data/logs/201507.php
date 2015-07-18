@@ -1,0 +1,13 @@
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062066	login	succeed
+<?PHP exit;?>	admin	27.152.128.113	1437062079	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062224	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062234	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062262	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062362	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437062370	login	succeed
+<?PHP exit;?>	admin	125.77.218.74	1437105102	login	succeed
+<?PHP exit;?>	UCenterAdministrator	125.77.218.74	1437105115	login	succeed
+<?PHP exit;?>	UCenterAdministrator	125.77.218.74	1437119579	login	succeed
+<?PHP exit;?>	UCenterAdministrator	125.77.218.74	1437119592	login	succeed
+<?PHP exit;?>	UCenterAdministrator	125.77.218.74	1437123169	login	succeed
+<?PHP exit;?>	UCenterAdministrator	27.152.128.113	1437131999	login	succeed

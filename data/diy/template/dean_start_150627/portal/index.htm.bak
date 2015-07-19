@@ -1,0 +1,7 @@
+<!--{template common/header}-->
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+	<!--[diy=diy1]--><div id="diy1" class="area"><div id="framerdJE11" class="frame move-span cl frame-3-1"><div class="title frame-title"><span class="titletext">3-1框架</span></div><div id="framerdJE11_left" class="column frame-3-1-l"><div id="framerdJE11_left_temp" class="move-span temp"></div><!--{block/5}--><!--{block/3}--><!--{block/6}--></div><div id="framerdJE11_center" class="column frame-3-1-r"><div id="framerdJE11_center_temp" class="move-span temp"></div><!--{block/4}--></div></div></div><!--[/diy]-->
+</div>
+
+<!--{template common/footer}-->
